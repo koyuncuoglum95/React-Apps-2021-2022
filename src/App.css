@@ -1,0 +1,62 @@
+body {
+    background-color:rgba(142, 46, 161, 0.795);
+    color: white;
+}
+.card h1, ul {
+text-align: center;
+list-style-position: inside;
+list-style-type: none;
+}
+
+ #btn1 {
+background-color: orangered;
+color: white;
+border: 5px solid none;
+border-radius: 10px;
+position: absolute;
+left: 630px;
+height: 25px;
+bottom: 290px;
+}
+
+#btn2 {
+    background-color: orangered;
+    color: white;
+    border: 5px solid none;
+    border-radius: 10px;
+    position: absolute;
+    left: 790px;
+    height: 25px;
+    bottom: 290px;
+    }
+
+#inpt {
+    position: absolute;
+    left: 530px;
+    height: 25px;
+    width: 500px;
+    bottom: 330px;
+}
+
+.checked {
+    text-decoration: line-through;
+    background-color: greenyellow;
+    color: black;
+    font-size: 20px;
+    position: relative;
+}
+
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    font-size: 20px;
+    left: 513px;
+    width: 350px;
+}
+
+li:hover {
+    background-color: orangered;
+}
+
+
