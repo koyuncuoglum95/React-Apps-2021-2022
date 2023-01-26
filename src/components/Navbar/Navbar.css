@@ -1,0 +1,59 @@
+#navlink {
+    color: #e50914;
+    line-height: normal;
+    text-decoration: none;
+    font-size: 35px;
+    position: absolute;
+    left: 3%;
+    top: 20%;
+}
+
+#TvLink {
+    position: absolute;
+    left: 20%;
+    top: 32.7%;
+}
+
+#MovieLink {
+    position: absolute;
+    left: 28.1%;
+    top: 32.7%;
+}
+
+#RecentLink {
+    position: absolute;
+    left: 35.2%;
+    top: 32.7%;
+}
+
+#MylistLink {
+    position: absolute;
+    left: 46.2%;
+    top: 32.7%;
+}
+
+#SearchLink {
+    position: absolute;
+    left: 63%;
+    top: 25%;
+    font-size: 25px;
+}
+
+#kidslink {
+    position: absolute;
+    left: 66.6%;
+    top: 32.7%;
+}
+
+#dvdlink {
+    position: absolute;
+    left: 70.6%;
+    top: 32.7%;
+}
+
+#notifylink {
+    position: absolute;
+    left: 75.6%;
+    top: 25%;
+    font-size: 25px;
+}

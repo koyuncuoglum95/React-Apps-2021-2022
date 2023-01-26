@@ -1,0 +1,89 @@
+#HeroPage {
+    background-color: black;
+    width: 1520px;
+    height: 780px;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0%;
+    top: 11.6%;
+    border: 2px solid black;
+    color: white;
+  }
+
+  #nforiginal {
+    font-size: 22px;
+    position: absolute;
+    left: 1.2%;
+    top: 2%;
+  }
+
+  #imgcard {
+    position: absolute;
+    top: 10%;
+    height: 270px;
+    width: 350px;
+    left: 2%;
+  }
+
+  #imgcard2 {
+    position: absolute;
+    top: 10%;
+    height: 270px;
+    width: 350px;
+    left: 26.5%;
+  }
+
+  #imgcard3 {
+    position: absolute;
+    top: 10%;
+    height: 270px;
+    width: 350px;
+    left: 51%;
+  }
+
+  #imgcard4 {
+    position: absolute;
+    top: 10%;
+    height: 270px;
+    width: 350px;
+    left: 76%;
+  }
+
+  #imgcard5 {
+    position: absolute;
+    top: 63%;
+    height: 270px;
+    width: 350px;
+    left: 2%;
+  }
+
+  #imgcard6 {
+    position: absolute;
+    top: 63%;
+    height: 270px;
+    width: 350px;
+    left: 26.5%;
+  }
+
+  #imgcard7 {
+    position: absolute;
+    top: 63%;
+    height: 270px;
+    width: 350px;
+    left: 51%;
+  }
+
+  #imgcard8 {
+    position: absolute;
+    top: 63%;
+    height: 270px;
+    width: 350px;
+    left: 76%;
+  }
+
+  #nforiginal2 {
+    font-size: 22px;
+    position: absolute;
+    left: 1.2%;
+    top: 55%;
+  }
