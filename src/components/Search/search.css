@@ -1,0 +1,28 @@
+#imageSearch {
+    width: 400px;
+    height: 30px;
+    position: absolute;
+    left: 570px;
+    top: 140px;
+  }
+
+
+#img1 {
+    position: absolute;
+    width: 400px;
+    height: 220px;
+    top: 300px;
+    left: 580px;
+  }
+  
+  #btn1 {
+    position: absolute;
+    top: 200px;
+    left: 570px;
+    width: 85px;
+    background-color: rgba(4, 24, 90, 0.897);
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+  
