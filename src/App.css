@@ -1,0 +1,161 @@
+body {
+  background-color: cadetblue;
+}
+
+#bmiTitle {
+  color: white;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#weight  {
+  position: absolute;
+  left: 20%;
+  width: 25%;
+  border-radius: 10px;
+  height: 20px;
+  border: 2px solid black;
+  bottom: 65%;
+}
+
+#height  {
+  position: absolute;
+  left: 55%;
+  width: 25%;
+  border-radius: 10px;
+  height: 20px;
+  border: 2px solid black;
+  bottom: 65%;
+}
+
+#bmiCalculate  {
+  width: 10%;
+  border: 2px solid black;
+  border-radius: 10px;
+  position: absolute;
+  left: 45%;
+  bottom: 55%;
+  height: 30px;
+  background-color: gainsboro;
+}
+
+#bmiCalculate:hover {
+  background-color: cadetblue;
+  color: white;
+}
+
+#nrmResult {
+  position: absolute;
+  left: 30%;
+  bottom: 35%;
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#nrmResult span {
+  position: absolute;
+  left: 115%;
+  bottom: 5%;
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 674%;
+  text-align: center;
+}
+
+#lblWeight {
+  color: white;
+  position: absolute;
+  left: 20.5%;
+  bottom: 70%;
+}
+
+#lblHeight {
+  color: white;
+  position: absolute;
+  left: 55.5%;
+  bottom: 70%;
+}
+
+#underweight{
+  font-size: 20px;
+  background-color: orange;
+  color: white;
+  width: 10%;
+  height: 12%;
+  position: absolute;
+  top: 70%;
+  left: 30%;
+  text-align: center;
+}
+
+#normalweight{
+  font-size: 20px;
+  background-color: green;
+  color: white;
+  width: 10%;
+  height: 12%;
+  position: absolute;
+  top: 70%;
+  left: 40.5%;
+  text-align: center;
+}
+
+#overweight{
+  font-size: 20px;
+  background-color: orangered;
+  color: white;
+  width: 10%;
+  height: 12%;
+  position: absolute;
+  top: 70%;
+  left: 51%;
+  text-align: center;
+}
+#up1{
+  position: absolute;
+  top: 30%;
+  text-align: center;
+  left: 32%;
+}
+
+#obese {
+  font-size: 20px;
+  background-color:red;
+  color: white;
+  width: 10%;
+  height: 12%;
+  position: absolute;
+  top: 70%;
+  left: 61.5%;
+  text-align: center;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.orangered  {
+  background-color: orangered;
+  color: white;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+
+
+
+
