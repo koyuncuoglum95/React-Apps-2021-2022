@@ -1,0 +1,108 @@
+#movieTitle{
+    color:red;
+    position: absolute;
+    left: 35%;
+    top: 18%;
+    font-size: 40px;
+}
+
+#movieImage{
+    position: absolute;
+    top: 17.5%;
+    left: 5%;
+    width: 400px;
+    height: 600px;
+}
+#moviePlot{
+    position: absolute;
+    top: 29.5%;
+    left: 33%;
+    color: white;
+    font-size: 22px;
+}
+
+#movieGenre{
+    color: red;
+    position: absolute;
+    top: 42%;
+    left: 35%;
+    font-size: 22px;
+}
+
+#movieWriter{
+    color:white;
+    position: absolute;
+    top: 47%;
+    left: 35%;
+    font-size: 20px;
+}
+
+
+#movieOriginal{
+    color:white;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    font-size: 20px;
+}
+
+
+#movieReleased{
+    color:red;
+    position: absolute;
+    top: 57.5%;
+    left: 35%;
+    font-size: 30px;
+}
+
+#movieRun {
+    color:white;
+    position: absolute;
+    top: 55%;
+    left: 55%;
+    font-size: 20px; 
+}
+
+#movieTime {
+    color:red;
+    position: absolute;
+    top: 57.5%;
+    left: 55%;
+    font-size: 30px; 
+}
+
+#movieBox {
+    color:white;
+    position: absolute;
+    top: 65%;
+    left: 35%;
+    font-size: 20px; 
+}
+
+#movieOffice {
+    color:red;
+    position: absolute;
+    top: 67.5%;
+    left: 35%;
+    font-size: 30px; 
+}
+
+#movieVote {
+    color:white;
+    position: absolute;
+    top: 65%;
+    left: 55%;
+    font-size: 20px; 
+}
+
+#movieAverage {
+    color:red;
+    position: absolute;
+    top: 67.5%;
+    left: 55%;
+    font-size: 30px; 
+}
+
+
+
+

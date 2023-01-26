@@ -1,0 +1,13 @@
+#inputSearch{
+    width: 500px;
+    position: absolute;
+    left: 33%;
+}
+
+#error{
+    color: white;
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    font-size: 30px;
+}
